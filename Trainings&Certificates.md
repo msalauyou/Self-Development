@@ -1,5 +1,5 @@
 # Training, Courses, Achievements
-List of courses, achievemnts, training that I have taken during my working career.
+List of courses, achievemnts, trainings and certifications that I have taken during my working career.
 
 ## 2021
 #### March - April
