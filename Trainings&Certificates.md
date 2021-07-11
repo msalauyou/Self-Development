@@ -8,19 +8,21 @@ List of courses, achievemnts, trainings and certifications that I have taken dur
 #### March
 * [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) - [certificate](https://www.credly.com/badges/cb2ec80b-ff5a-4a39-a69f-4658ccd7e754)
 
+#### January
+* [Looker: Getting Started with Looker](https://training.looker.com/) - [completion certificate](https://verify.skilljar.com/c/j59xj9q2fwsz)
+* [Looker: Getting Started with LookML](https://training.looker.com/) - [completion certificate](https://verify.skilljar.com/c/kk9es63moqf7)
+
 #### January - February
-#### MongoDB University:
-* [M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about) - [completion certificate](certs/M201_proof_of_completion.jpeg)
-* [M220J: MongoDB for Java Developers ](https://university.mongodb.com/courses/M220J/about) - [completion certificate](certs/M220J_proof_of_completion.jpeg)
-* [M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) - [completion certificate](certs/M320_proof_of_completion.jpeg)
+* [MongoDB University - M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about) - [completion certificate](certs/M201_proof_of_completion.jpeg)
+* [MongoDB University - M220J: MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about) - [completion certificate](certs/M220J_proof_of_completion.jpeg)
+* [MongoDB University - M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) - [completion certificate](certs/M320_proof_of_completion.jpeg)
 
 
 ## 2020
 #### September - October
-#### MongoDB University:
-* [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](certs/M001_proof_of_completion.jpeg)
-* [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) - [completion certificate](certs/M121_proof_of_completion.jpeg)
-* [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) - [completion certificate](certs/M103_proof_of_completion.jpeg)
+* [MongoDB University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](certs/M001_proof_of_completion.jpeg)
+* [MongoDB University - M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) - [completion certificate](certs/M121_proof_of_completion.jpeg)
+* [MongoDB University - M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) - [completion certificate](certs/M103_proof_of_completion.jpeg)
 
 #### January
 * [Terraform from the beginning to professional](https://www.udemy.com/course/rus-terraform/) - [completion certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-11F0ROJU.jpg)
