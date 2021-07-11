@@ -11,7 +11,7 @@ List of courses, achievemnts, training that I have taken during my working caree
 * [M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) - [completion certificate](certs/M320_proof_of_completion.jpeg)
 
 ### 02.2018 – 02.2018	
-#### Delivering Projects with Scrum, EPAM, Minsk.
+#### Delivering Projects with Scrum, EPAM, Minsk
 
 ### 09.2016 – 03.2017
 #### Training for Managers, EPAM, Minsk
