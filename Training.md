@@ -1,1 +1,37 @@
+# Training, Courses, Achievements
+List of courses, achievemnts, training that I have taken during my working career.
 
+### 09.2020 - 02.2021
+#### MongoDB University;
+* [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+* [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
+* [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about)
+* [M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about)
+* [M220J: MongoDB for Java Developers ](https://university.mongodb.com/courses/M220J/about)
+* [M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about)
+
+### 02.2018 – 02.2018	
+#### Delivering Projects with Scrum, EPAM, Minsk.
+
+### 09.2016 – 03.2017
+#### Training for Managers, EPAM, Minsk
+* Evolution of a Manager;
+* Leadership and Team Building;
+* Negotiations in Interpersonal Communication; 
+* Labor Law Basics and Adaptation Process at EPAM;
+* Interviewing a Candidate;
+* Time Management;
+* Employee Education and Development;
+* Performance Management;
+* Non-Financial Employee Motivation;
+* Introduction to Delivery Process;
+
+### 10.2015 – 03.2016
+#### Introduction to Test Automation, EPAM, Minsk
+* Introduction to Test Automation;
+* Teamwork;  
+* Java;
+* Unit Testing for Java; 
+* Selenium WebDriver;
+* Automation Framework;
+* Reporting;
