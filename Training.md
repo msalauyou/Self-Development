@@ -4,6 +4,9 @@ List of courses, achievemnts, training that I have taken during my working caree
 ### 03.2021 - 05.2021
 * [Java Fundamentals](https://www.it-academy.by/) - [completion certificate](certs/Java_fundamentals_it_academy.pdf)
 
+### 03.2021
+* [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) - [completion certificate](https://www.credly.com/badges/cb2ec80b-ff5a-4a39-a69f-4658ccd7e754)
+
 ### 09.2020 - 02.2021
 #### MongoDB University;
 * [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](certs/M001_proof_of_completion.jpeg)
@@ -15,6 +18,9 @@ List of courses, achievemnts, training that I have taken during my working caree
 
 ### 01.2020
 * [Terraform from the beginning to professional](https://www.udemy.com/course/rus-terraform/) - [completion certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-11F0ROJU.jpg)
+
+### 12.2019
+* [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/training/) - [completion certificate](cert/AWS Certified Solutions Architect - Associate certificate.pdf)
 
 ### 02.2018 – 02.2018	
 * Delivering Projects with Scrum, EPAM, Minsk
