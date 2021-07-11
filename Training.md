@@ -4,11 +4,11 @@ List of courses, achievemnts, training that I have taken during my working caree
 ### 09.2020 - 02.2021
 #### MongoDB University;
 * [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](certs/M001_proof_of_completion.jpeg)
-* [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
-* [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about)
-* [M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about)
-* [M220J: MongoDB for Java Developers ](https://university.mongodb.com/courses/M220J/about)
-* [M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about)
+* [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about) - [completion certificate](certs/M121_proof_of_completion.jpeg)
+* [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about) - [completion certificate](certs/M103_proof_of_completion.jpeg)
+* [M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about) - [completion certificate](certs/M201_proof_of_completion.jpeg)
+* [M220J: MongoDB for Java Developers ](https://university.mongodb.com/courses/M220J/about) - [completion certificate](certs/M220J_proof_of_completion.jpeg)
+* [M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) - [completion certificate](certs/M320_proof_of_completion.jpeg)
 
 ### 02.2018 – 02.2018	
 #### Delivering Projects with Scrum, EPAM, Minsk.
