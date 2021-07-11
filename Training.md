@@ -1,6 +1,9 @@
 # Training, Courses, Achievements
 List of courses, achievemnts, training that I have taken during my working career.
 
+### 03.2021 - 05.2021
+* [Java Fundamentals](https://www.it-academy.by/)- [completion certificate](certs/)
+
 ### 09.2020 - 02.2021
 #### MongoDB University;
 * [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](certs/M001_proof_of_completion.jpeg)
