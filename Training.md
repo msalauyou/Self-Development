@@ -10,8 +10,11 @@ List of courses, achievemnts, training that I have taken during my working caree
 * [M220J: MongoDB for Java Developers ](https://university.mongodb.com/courses/M220J/about) - [completion certificate](certs/M220J_proof_of_completion.jpeg)
 * [M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) - [completion certificate](certs/M320_proof_of_completion.jpeg)
 
+### 01.2020
+* [Terraform from the beginning to professional](https://www.udemy.com/course/rus-terraform/) - [completion certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-11F0ROJU.jpg)
+
 ### 02.2018 – 02.2018	
-#### Delivering Projects with Scrum, EPAM, Minsk
+* Delivering Projects with Scrum, EPAM, Minsk
 
 ### 09.2016 – 03.2017
 #### Training for Managers, EPAM, Minsk
