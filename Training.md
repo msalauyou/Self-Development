@@ -3,7 +3,7 @@ List of courses, achievemnts, training that I have taken during my working caree
 
 ### 09.2020 - 02.2021
 #### MongoDB University;
-* [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](cert/M001_proof_of_completion.jpeg)
+* [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) - [completion certificate](certs/M001_proof_of_completion.jpeg)
 * [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
 * [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about)
 * [M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about)
