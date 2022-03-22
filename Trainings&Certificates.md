@@ -2,6 +2,9 @@
 List of courses, achievemnts, trainings and certifications that I have taken during my working career.
 
 ## 2021
+#### June - October
+* [Java Enterprise Development](https://www.it-academy.by/) - [completion certificate](certs/Java_enterprise_development_it_academy.pdf)
+
 #### March - April
 * [Java Fundamentals](https://www.it-academy.by/) - [completion certificate](certs/Java_fundamentals_it_academy.pdf)
 
