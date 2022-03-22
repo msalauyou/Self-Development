@@ -1,7 +1,20 @@
 # Training, Courses, Achievements
 List of courses, achievemnts, trainings and certifications that I have taken during my working career.
 
+## 2022
+#### March
+* [Подготовка к OCP-сертификации: экзамен 1Z0-809, Часть 1/3](https://www.udemy.com/course/ocp-1z0-809-13/) - [completion certificate](https://www.udemy.com/certificate/UC-598ab187-0f87-4472-9c33-3b9eff063fc1/)
+
+#### March
+* [Подготовка к сертификации Java 8, Oracle Certified Associate](https://www.udemy.com/course/java-8-oracle-certified-associate/) - [completion certificate](https://www.udemy.com/certificate/UC-b6b92c8f-b044-41ee-9364-08858586a8aa/)
+
 ## 2021
+#### December
+* [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/) - [completion certificate](https://www.udemy.com/certificate/UC-1a87fc59-702e-4111-b0ce-881b6c688764/)
+
+#### October
+* [Gradle for Java developers](https://www.udemy.com/course/gradle-for-java-developers/) - [completion certificate](https://www.udemy.com/certificate/UC-262a44b6-a0ca-48ec-bdbf-2c434ac2b315/)
+
 #### June - October
 * [Java Enterprise Development](https://www.it-academy.by/) - [completion certificate](certs/Java_enterprise_development_it_academy.pdf)
 
