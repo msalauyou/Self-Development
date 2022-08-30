@@ -2,6 +2,13 @@
 List of courses, achievemnts, trainings and certifications that I have taken during my working career.
 
 ## 2022
+
+#### May
+* [Подготовка к OCP-сертификации: экзамен 1Z0-809, Часть 3/3](https://www.udemy.com/course/ocp-1z0-809-33/) - [completion certificate](https://www.udemy.com/certificate/UC-5e1727c8-0790-4c15-bb4b-230bfc682398/)
+
+#### April
+* [Подготовка к OCP-сертификации: экзамен 1Z0-809, Часть 2/3](https://www.udemy.com/course/ocp-1z0-809-23/) - [completion certificate](https://www.udemy.com/certificate/UC-b6af4389-6207-492d-85f6-accaa665f214/)
+
 #### March
 * [Подготовка к OCP-сертификации: экзамен 1Z0-809, Часть 1/3](https://www.udemy.com/course/ocp-1z0-809-13/) - [completion certificate](https://www.udemy.com/certificate/UC-598ab187-0f87-4472-9c33-3b9eff063fc1/)
 
