@@ -1,6 +1,10 @@
 # Training, Courses, Achievements
 List of courses, achievemnts, trainings and certifications that I have taken during my working career.
 
+* [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/training/) - [certificate](certs/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+* [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) - [certificate](https://www.credly.com/badges/cb2ec80b-ff5a-4a39-a69f-4658ccd7e754)
+
+
 ## 2023
 
 #### March
@@ -44,7 +48,6 @@ List of courses, achievemnts, trainings and certifications that I have taken dur
 * [MongoDB University - M201: MongoDB Performance ](https://university.mongodb.com/courses/M201/about) - [completion certificate](certs/M201_proof_of_completion.jpeg)
 * [MongoDB University - M220J: MongoDB for Java Developers](https://university.mongodb.com/courses/M220J/about) - [completion certificate](certs/M220J_proof_of_completion.jpeg)
 * [MongoDB University - M320: MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) - [completion certificate](certs/M320_proof_of_completion.jpeg)
-
 
 ## 2020
 #### September - October
