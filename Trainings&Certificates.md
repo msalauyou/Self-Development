@@ -4,8 +4,21 @@ List of courses, achievemnts, trainings and certifications that I have taken dur
 * [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/training/) - [certificate](certs/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 * [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) - [certificate](https://www.credly.com/badges/cb2ec80b-ff5a-4a39-a69f-4658ccd7e754)
 
-
 ## 2023
+
+#### December
++ [Spring WebFlux Masterclass: Reactive Microservices](https://www.udemy.com/course/spring-webflux/) - [completion certificate](https://www.udemy.com/certificate/UC-bb92b4b1-7091-4c04-a959-50cd278ef73d)
+
++ [HTTP. Servlets](https://www.udemy.com/course/http-servlets-dmdev/) - [completion certificate](https://www.udemy.com/certificate/UC-f103c596-d6df-4e92-bf4e-4163f9d27478)
+
+#### November
++ [The Complete Apache Kafka Practical Guide](https://www.udemy.com/course/apache_kafka/) - [completion certificate](https://www.udemy.com/certificate/UC-3e4eff3d-7238-4f59-9f6b-b7a24de488d8)
+
++ [Docker & Kubernetes: The Complete Practical Guide](https://www.udemy.com/course/docker-complete/) - [completion certificate](https://www.udemy.com/certificate/UC-8372a7a1-ecfc-4876-b141-0360fa49a11a)
+
++ [Hibernate](https://www.udemy.com/course/hibernate-dmdev/) - [completion certificate](https://www.udemy.com/certificate/UC-8f43ad25-9faa-4993-ab2f-7a534435d349)
+
++ [Docker - Полный курс Docker](https://www.udemy.com/course/docker-ru/) - [completion certificate](https://www.udemy.com/certificate/UC-05a67950-f11b-4026-988d-8681d9115fe6)
 
 #### March
 + [Mastering Java Reactive Programming [From Scratch]](https://www.udemy.com/course/complete-java-reactive-programming/) - [completion certificate](https://www.udemy.com/certificate/UC-026a0515-c402-4c6c-b40b-313e538532d2/)
